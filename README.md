@@ -1,16 +1,16 @@
 # Generalized Linear Models
 
-### GLMs are a class of statistical models where there is more modeling possibilities than a simple linear regression.
+## GLMs are a class of statistical models where there is more modeling possibilities than a simple linear regression.
 
-### There are many advantages to using them, some are:
+#### There are many advantages to using them, some are:
 
 1. Greater reliability in results
 2. Greater Modeling Possibilities
 3. Improved predictions
 
-### The big difference in this class is the possibilities of the probability distributions for the target variable.
+## The big difference in this class is the possibilities of the probability distributions for the target variable.
 
-## The most common distributions are:
+#### The most common distributions are:
 
 1. Normal
 2. Inverse Normal
@@ -19,4 +19,11 @@
 5. Negative Binomial
 6. Binomial
 
-### Each model has a specific type of variable. For continuous data, the Normal, Gamma and Inverse Normal distributions are the most common alternatives while for count data or binary data the Poisson, Binomial and Negative Binomial distributions are the most common.
+#### Each model has a specific type of variable. For continuous data, the Normal, Gamma and Inverse Normal distributions are the most common alternatives while for count data or binary data the Poisson, Binomial and Negative Binomial distributions are the most common.
+
+#### This project presents several real data analysis with this type of modeling. Including:
+1. Creation of GLMs
+2. Interpretation of results
+3. creation of .confidence intervals
+4. Comparison between models
+5. Hypothesis testing for model parameters.
