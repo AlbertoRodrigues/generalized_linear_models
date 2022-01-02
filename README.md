@@ -32,18 +32,18 @@
 
 #### The first contains data analysis of data from the binomial distribution in which we have a certain number of successes and failures in the target variable.
 
-#### Model creations were performed with various functions of linking and interpreting the model.
+#### Model creations were performed with various link functions and interpreting the model.
 
-#### For further details, click here to go to that template type folder.
+#### For further details, click [here](https://github.com/AlbertoRodrigues/generalized_linear_models/tree/main/binomial_models) to go to these data analysis.
 
 #### The second is in relation to classification models, specifically models in which the target variable has the bernoulli distribution, including logistic regression.
 
 #### Several models were created with some data and predictions based on them. Also, we compare the prediction curves.
 
-#### For further details, click here to go to that template type folder.
+#### For further details, click [here](https://github.com/AlbertoRodrigues/generalized_linear_models/tree/main/classification_models) to go to these data analysis.
 
 #### The last part concerns continuous and discrete data, where there is much more modeling possibilities.
 
 #### Data analysis compared some models for this type of data, exploratory analysis and creation of confidence intervals.
 
-#### For further details, click here to go to that template type folder.
+#### For further details, click [here](https://github.com/AlbertoRodrigues/generalized_linear_models/tree/main/regression_models) to go to these data analysis.
