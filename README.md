@@ -27,3 +27,23 @@
 3. creation of .confidence intervals
 4. Comparison between models
 5. Hypothesis testing for model parameters.
+
+## The data analyzes of this project were separated into three folders:
+
+#### The first contains data analysis of data from the binomial distribution in which we have a certain number of successes and failures in the target variable.
+
+#### Model creations were performed with various functions of linking and interpreting the model.
+
+#### For further details, click here to go to that template type folder.
+
+#### The second is in relation to classification models, specifically models in which the target variable has the bernoulli distribution, including logistic regression.
+
+#### Several models were created with some data and predictions based on them. Also, we compare the prediction curves.
+
+#### For further details, click here to go to that template type folder.
+
+#### The last part concerns continuous and discrete data, where there is much more modeling possibilities.
+
+#### Data analysis compared some models for this type of data, exploratory analysis and creation of confidence intervals.
+
+#### For further details, click here to go to that template type folder.
